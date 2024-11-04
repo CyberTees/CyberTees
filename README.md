@@ -1,6 +1,6 @@
 - ## Hi everyone, WELCOME to my Github Page.
-- #🖥️ # I am a newbie data analyst and virtual assistant acquainted with tools such as
-         excel,Power Bi,SQL,Google sheet,microft ord,google calendar e.t.c
+- 🖥️ I am a newbie data analyst and virtual assistant acquainted with tools such as
+      excel,Power Bi,SQL,Google sheet,microft ord,google calendar e.t.c
 - 🌱 I’m currently learning and upskilling as a data analyst.
 - 💞️ I’m open to data analytics entry roles, internship,remote offers e.t.c.
 - 📫 How to reach me: linkedlin
