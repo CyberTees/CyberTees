@@ -8,9 +8,9 @@
 - ⚡ Fun fact: i love learning and collaborating.
 
 ## CERTIFICATIONS
-# B.Tech MICROBIOLOGY
-# PGDE 
-# ALX VIRTUAL ASSISTANT CERT
+- B.Tech MICROBIOLOGY
+- PGDE 
+- ALX VIRTUAL ASSISTANT CERT
 
 
 
